@@ -1,2 +1,5 @@
 # forktest
 test
+
+
+make test
